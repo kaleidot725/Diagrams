@@ -1,4 +1,4 @@
-# diagrams net management rule
+# diagrams.net 管理ルール
 
 本リポジトリでは以下の特徴を持つ[diagrams.net](https://www.diagrams.net)と呼ばれる、  
 グラフ描画ソフトウェアの成果物をGitHub上で管理するルールをまとめます。
