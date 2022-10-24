@@ -1,6 +1,6 @@
 # [diagrams.net](https://www.diagrams.net) 管理ルール
 
-本リポジトリでは以下の特徴を持つdiagrams.netと呼ばれるソフトウェアを利用した際のGitHub上でのドキュメントの管理のルールをまとめます。
+本リポジトリでは以下の特徴を持つ[diagrams.net](https://www.diagrams.net)と呼ばれる、グラフ描画ソフトウェアの成果物をGitHub上で管理するルールをまとめます。
 
 - diagrams.netはHTML5とJavaScriptで開発されたグラフ描画ソフトウェアです。
 - diagrams.netではフローチャート、ワイヤーフレーム、UML、ネットワークなどの図形を作成できます。
