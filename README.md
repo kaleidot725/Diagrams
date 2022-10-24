@@ -1,9 +1,6 @@
-# Diagrams.net デモ
+# Diagrams.netとは
 
-Diagrams.netを利用してドキュメントを管理する手法のデモになります。
+# 編集環境
 
-## Diagrams.net とは
+# 命名規則
 
-## 編集環境
-
-## 編集ルール
