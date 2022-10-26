@@ -11,6 +11,10 @@
 
 ## 編集環境
 
+| 名称 | 説明 |
+| --- | ---- |
+| [VSCode](https://azure.microsoft.com/ja-jp/products/visual-studio-code/) | diagrams.netのファイルをVSCode編集するためインストールする |
+| [Draw.io Integration](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio) | VSCodeでdiagrams.netのファイルを編集するためのプラグインをインストールする |
 
 ## 命名規則
 
