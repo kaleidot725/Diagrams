@@ -11,10 +11,13 @@
 
 ## 編集環境
 
+以下に記載するソフトウェア＆プラグインでdiagrams.netのファイルを編集します。なのでソフトウェア＆プラグインを各自でインストールしてください。
+※ローカル環境の編集環境を構築したくない場合、GitHubで'.'キーで起動できるVSCodeを利用して構築しても問題ありません。
+
 | 名称 | 説明 |
 | --- | ---- |
-| [VSCode](https://azure.microsoft.com/ja-jp/products/visual-studio-code/) | diagrams.netのファイルをVSCode編集するためインストールする |
-| [Draw.io Integration](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio) | VSCodeでdiagrams.netのファイルを編集するためのプラグインをインストールする |
+| [VSCode](https://azure.microsoft.com/ja-jp/products/visual-studio-code/) | diagrams.netのファイルをVSCode編集するエディタ |
+| [Draw.io Integration](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio) | VSCodeでdiagrams.netのファイルを編集するために必要な拡張プラグイン |
 
 ## 命名規則
 
