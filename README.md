@@ -19,5 +19,8 @@
 | [VSCode](https://azure.microsoft.com/ja-jp/products/visual-studio-code/) | diagrams.netのファイルをVSCode編集するエディタ |
 | [Draw.io Integration](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio) | VSCodeでdiagrams.netのファイルを編集するために必要な拡張プラグイン |
 
-## 命名規則
+## 編集ルール
 
+### 「xxx.drawio.svg」というファイル名で「svgファイル」として保存すること
+
+- GitHubでsvgファイルの差分が表示できるため変更点を追いやすくなるため
